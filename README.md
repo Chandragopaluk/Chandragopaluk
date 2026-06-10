@@ -1,4 +1,4 @@
-# Chandra | Programme & Portfolio Manager who ships
+# Chandra Gopal | Programme & Portfolio Manager who ships
 
 20+ years delivering technology change across UK financial services: HSBC, Barclays, Lloyds Banking Group, RBS, Refinitiv/LSEG, Kobalt Music Group, Capgemini (HMRC), Sopra Steria (FCA).
 
