@@ -24,7 +24,7 @@ Scope before code. Backtests before conviction. Kill switches on everything — 
 
 ## Credentials
 
-MBA (Finance & Information Systems) · PMP · PRINCE2 Practitioner · AWS Cloud Practitioner · SAFe LPM
+MBA (Finance & Information Systems) · PMP · PRINCE2 Practitioner · AWS Cloud Practitioner (in progress) · SAFe LPM (in progress)
 
 ## Stack
 
